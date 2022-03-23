@@ -1,4 +1,4 @@
-### Hi Everyone 👋
+### Hello Everyone 👋
 
 - I am Nahian,18 years old, building in public.
 - 👨‍💻 Self-Taught Dev (Android)

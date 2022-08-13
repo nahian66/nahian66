@@ -1,5 +1,3 @@
-https://github.com/anuraghazra/github-readme-stats.git
-
 ### Hello Everyone 👋
 
 - I am Nahian,18 years old, building in public.

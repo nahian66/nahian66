@@ -1,5 +1,3 @@
-gh repo clone anuraghazra/github-readme-stats
-
 ### Hello Everyone 👋
 
 - I am Nahian,18 years old, building in public.

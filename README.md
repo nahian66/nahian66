@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-- I am Nahian,18 years old, building in public.
+- I am Nahian,20 years old, building in public.
 - 👨‍💻 Self-Taught Dev (Android)
 - ⚒️ Building
 - 🤔 Curious
@@ -15,5 +15,5 @@
 - 😄 Pronouns:MD.NAHIAN AHMED
 - ⚡ Fun fact: I forget code again and again.
 
-Hope you are all enoy :D
+Hope you are all enjoy :D
 

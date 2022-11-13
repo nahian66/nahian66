@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm NAHIAN</h1>
 <h3 align="center">A passionate android developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahian3832&label=Profile%20views&color=0e75b6&style=flat" alt="nahian3832" /> </p>
 

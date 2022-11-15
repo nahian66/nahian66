@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahian3832&label=Profile%20views&color=0e75b6&style=flat" alt="nahian3832" /> </p>
 
-- 🔭 I’m currently working on [Rowdy Music for Spotify](https://github.com/nahian3832/rowdy_music)
+- 🔭 I’m currently working on [Rowdy Music](https://github.com/nahian3832/rowdy_music)
 
 - 🌱 I’m currently learning **Android Development with java and Backend**
 

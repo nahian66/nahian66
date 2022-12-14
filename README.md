@@ -4,17 +4,17 @@
 <h3 align="center">A passionate android developer from Bangladesh</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahian3832&label=Profile%20views&color=0e75b6&style=flat" alt="nahian3832" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahian66&label=Profile%20views&color=0e75b6&style=flat" alt="nahian66" /> </p>
 
-- 🔭 I’m currently working on [Diamonds and Elite pass]([https://github.com/nahian3832/diamondsandelitepass])
+- 🔭 I’m currently working on [Diamonds and Elite pass]([https://github.com/nahian66/diamondsandelitepass])
 
 - 🌱 I’m currently learning **Android Development with java and Backend**
 
 - 👯 I’m looking to collaborate on [Lottie Android](https://github.com/airbnb/lottie-android)
 
-- 🤝 I already did [Spotify Clone](https://github.com/nahian3832/Spotify-Clone)
+- 🤝 I already did [Spotify Clone](https://github.com/nahian66/Spotify-Clone)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nahian3832](https://github.com/nahian3832)
+- 👨‍💻 All of my projects are available at [https://github.com/nahian66](https://github.com/nahian66)
 
 - 💬 Ask me about **Java**
 
